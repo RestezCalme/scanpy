@@ -1,0 +1,14 @@
+name: scverse-tutorial
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - scanpy
+  - anndata
+  - pooch
+  - matplotlib
+  - numpy
+  - python-igraph
+  - leidenalg
+  - louvain
+  - setuptools<82
